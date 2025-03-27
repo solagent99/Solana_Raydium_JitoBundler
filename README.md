@@ -1,6 +1,6 @@
 # Solana Raydium Jito Bundler
 
-As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version(https://wa.me/13137423660 or https://t.me/DevCutup)
+As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version(https://t.me/shinnyleo0912)
 
 
 
@@ -12,7 +12,7 @@ To get started with the Solana Raydium Bundler, follow these steps to ensure a s
 ### 1. How to run repository 
 
 #### Clone my repository
-Git clone https://github.com/cutupdev/Solana-Raydium-Jito-Bundler.git
+Git clone https://github.com/solagent99/Solana_Raydium_JitoBundler.git
 
 #### Edit the `.env` File
 Before running the script, you need to configure the `.env` file. There are two keypairs required:
@@ -65,5 +65,3 @@ Removing LP is straightforward:
 The Solana Raydium Bundler is a robust tool for managing multiple transactions on the Solana blockchain. By following the setup and script functions outlined above, you can efficiently handle buying and selling operations with ease. 
 
 Follow me on github and give star to this repository.
-
-For more information, reach out of me (https://wa.me/13137423660 or https://t.me/DevCutup)
